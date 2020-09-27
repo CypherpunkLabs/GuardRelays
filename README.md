@@ -13,7 +13,6 @@ Requirements:
 
 Tor installed 
 
-Obfs4
 
 
 How would you install this? Example from fedora
